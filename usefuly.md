@@ -7,7 +7,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khant-Nyar&amp;theme=dracula&amp;hide_border=true" width="520" alt="Khant-Nyar">
 
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhantNyar&amp;layout=compact&amp;theme=synthwave&amp;v=2" data-origin="https://github-readme-stats.vercel.app/api/wakatime?username=Khant-Nyar&amp;layout=compact&amp;theme=synthwave&amp;v=2" alt="Khant-Nyar's wakatime stats"></p></div>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Khant-Nyar&amp;layout=compact&amp;theme=synthwave&amp;v=2" data-origin="https://github-readme-stats.vercel.app/api/wakatime?username=KhantNyar&amp;layout=compact&amp;theme=synthwave&amp;v=2" alt="Khant-Nyar's wakatime stats"></p></div>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KhantNyar)](https://github.com/anuraghazra/github-readme-stats)
 
