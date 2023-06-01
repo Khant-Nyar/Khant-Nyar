@@ -10,10 +10,10 @@
 
 <div align="center">
   test
-  <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhantNyar&amp;layout=compact&amp;theme=synthwave&amp;v=2" data-origin="https://github-readme-stats.vercel.app/api/wakatime?username=KhantNyar&amp;layout=compact&amp;theme=synthwave&amp;v=2" alt="FahimFBA's wakatime stats"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@KhantNyar&amp;layout=compact&amp;theme=synthwave&amp;v=2" data-origin="https://github-readme-stats.vercel.app/api/wakatime?username=@KhantNyar&amp;layout=compact&amp;theme=synthwave&amp;v=2" alt="FahimFBA's wakatime stats"></p>
 </div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KhantNyar)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@KhantNyar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <picture>
