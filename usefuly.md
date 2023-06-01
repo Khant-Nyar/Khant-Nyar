@@ -66,3 +66,5 @@
         </tr>
     </tbody>
 </table>
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=@KhantNyar&amp;theme=gruvbox&amp;hide_border=true)](https://github.com/Khant-Nyar" alt="Khant-Nyar's GitHub Stats Graph">
