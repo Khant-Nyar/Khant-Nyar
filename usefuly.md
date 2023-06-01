@@ -1,1 +1,1 @@
-<img alt="Chaitanya-Pratap-Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117">
+<img alt="Khant Si Thu Phyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khant-Nyar&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117">
