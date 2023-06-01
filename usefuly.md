@@ -99,3 +99,19 @@
 <a href="https://github.com/hgdsandakalum">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&amp;count_private=true&amp;hide=stars&amp;show_icons=true&amp;theme=dark&amp;line_height=27" alt="Dananjaya's github stats" height="220px">
 </a>
+
+<details open="">
+    <summary>
+        <g-emoji class="g-emoji" alias="chart_with_upwards_trend"
+            fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+        <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+    </summary>
+    <br>
+
+    <p align="center">
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&amp;show_icons=true&amp;hide_border=true&amp;title_color=94b4a4&amp;&amp;icon_color=FFFFFF&amp;&amp;text_color=FFFFFF&amp;&amp;bg_color=000000&amp;count_private=true&amp;include_all_commits=true">
+        <img align="center" height="195px"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&amp;text_color=FFFFFF&amp;bg_color=000000&amp;title_color=94b4a4&amp;langs_count=15&amp;layout=compact&amp;hide_border=true">
+    </p>
+</details>
