@@ -41,3 +41,5 @@
         </tr>
     </tbody>
 </table>
+
+<figure><embed src="https://wakatime.com/share/@KhantNyar/0f2bfbd9-b12c-44dd-8023-8eb35d00a310.svg"></embed></figure>
