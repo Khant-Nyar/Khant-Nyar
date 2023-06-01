@@ -107,11 +107,12 @@
         <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
     </summary>
     <br>
-
     <p align="center">
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&amp;show_icons=true&amp;hide_border=true&amp;title_color=94b4a4&amp;&amp;icon_color=FFFFFF&amp;&amp;text_color=FFFFFF&amp;&amp;bg_color=000000&amp;count_private=true&amp;include_all_commits=true">
-        <img align="center" height="195px"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&amp;text_color=FFFFFF&amp;bg_color=000000&amp;title_color=94b4a4&amp;langs_count=15&amp;layout=compact&amp;hide_border=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&amp;show_icons=true&amp;hide_border=true&amp;title_color=94b4a4&amp;&amp;icon_color=FFFFFF&amp;&amp;text_color=FFFFFF&amp;&amp;bg_color=000000&amp;count_private=true&amp;include_all_commits=true">
+        <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&amp;text_color=FFFFFF&amp;bg_color=000000&amp;title_color=94b4a4&amp;langs_count=15&amp;layout=compact&amp;hide_border=true">
     </p>
 </details>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;center=true&amp;vCenter=true&amp;duration=3000&amp;color=%2338C2FF&amp;size=40&amp;height=200&amp;width=800&amp;lines=Heyyy!+I'm+Wang+Liao+%3C3;I'+am+a+Web+devloper+at+Myanmar;I'+am+a+Software+QA+Engineer+at+QAD;Welcome+to+my+profile+!">
+</p>
