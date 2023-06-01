@@ -99,7 +99,6 @@
 <a href="https://github.com/hgdsandakalum">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&amp;count_private=true&amp;hide=stars&amp;show_icons=true&amp;theme=dark&amp;line_height=27" alt="Dananjaya's github stats" height="220px">
 </a>
-
 <details open="">
     <summary>
         <g-emoji class="g-emoji" alias="chart_with_upwards_trend"
