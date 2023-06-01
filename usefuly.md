@@ -6,6 +6,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khant-Nyar&amp;theme=dracula&amp;hide_border=true" width="520" alt="Khant-Nyar">
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Khant-Nyar&amp;layout=compact&amp;theme=synthwave&amp;v=2" data-origin="https://github-readme-stats.vercel.app/api/wakatime?username=Khant-Nyar&amp;layout=compact&amp;theme=synthwave&amp;v=2" alt="Khant Si Thu Phyo's wakatime stats">
 
 <table border="0" align="center">
 <tbody><tr border="0">
