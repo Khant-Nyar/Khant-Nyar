@@ -89,3 +89,13 @@
         </tr>
     </tbody>
 </table>
+
+<h2 id="github-stats-"><a href="#/templates/hgdsandakalum?id=github-stats-" data-id="github-stats-" class="anchor"><span>Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></span></a></h2>
+
+<a href="https://github.com/hgdsandakalum">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgdsandakalum&amp;show_icons=true&amp;theme=dark&amp;langs_count=8&amp;count_private=true&amp;card_width=280" height="220px">
+</a>
+
+<a href="https://github.com/hgdsandakalum">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&amp;count_private=true&amp;hide=stars&amp;show_icons=true&amp;theme=dark&amp;line_height=27" alt="Dananjaya's github stats" height="220px">
+</a>
