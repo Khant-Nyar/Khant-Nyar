@@ -73,20 +73,25 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khant-Nyar&amp;theme=dracula&amp;hide_border=true" width="520" alt="Khant-Nyar">
 
 <table border="0" align="center">
-    <tbody><tr border="0">
-    <td width="50%" align="center">
-      
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Khant-Nyar&amp;theme=cobalt&amp;show_icons=true&amp;count_private=true">
-      <br><br>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&amp;theme=dark&amp;hide_border=true">
-    
-    
-    </td>
-    
-    <td width="50%" align="center">
-    
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Khant-Nyar&amp;theme=dark&amp;hide_border=true&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-      
-      </td>
-    </tr>
-    </tbody></table>
+    <tbody>
+        <tr border="0">
+            <td width="50%" align="center">
+
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api?username=Khant-Nyar&amp;theme=cobalt&amp;show_icons=true&amp;count_private=true">
+                <br><br>
+                <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak"
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&amp;theme=dark&amp;hide_border=true">
+
+
+            </td>
+
+            <td width="50%" align="center">
+
+                <img align="center"
+                    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Khant-Nyar&amp;theme=dark&amp;hide_border=true&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+
+            </td>
+        </tr>
+    </tbody>
+</table>
