@@ -43,3 +43,26 @@
 </table>
 
 <figure><embed src="https://wakatime.com/share/@KhantNyar/0f2bfbd9-b12c-44dd-8023-8eb35d00a310.svg"></embed></figure>
+
+<table>
+    <thead>
+        <tr>
+            <th><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;theme=tokyonight"
+                    data-origin="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;theme=tokyonight"
+                    alt="Aditya's github stats"></th>
+            <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&amp;theme=tokyonight"
+                    data-origin="https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&amp;theme=tokyonight"
+                    alt="Aditya GitHub Streak"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&amp;theme=tokyonight"
+                    data-origin="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&amp;theme=tokyonight"
+                    alt="Top Langs"></td>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight"
+                    data-origin="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight"
+                    alt="Github Stars"></td>
+        </tr>
+    </tbody>
+</table>
