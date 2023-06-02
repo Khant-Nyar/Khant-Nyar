@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Khant Si Thu Phyo</h1>
 <h3 align="center">A passionate Backend Developer from Myanmar</h3>
+<table border="0" align="center">
+    <tbody>
+        <tr border="0">
+            <td width="50%" align="center">
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcb240664d413ac6cb8b6ba52e466dc2de59b507fced5a13a434ca4723dce3c8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b68616e742d4e796172267468656d653d636f62616c742673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565"><img align="center" src="https://camo.githubusercontent.com/fcb240664d413ac6cb8b6ba52e466dc2de59b507fced5a13a434ca4723dce3c8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b68616e742d4e796172267468656d653d636f62616c742673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Khant-Nyar&amp;theme=cobalt&amp;show_icons=true&amp;count_private=true" style="max-width: 100%;"></a>
+                <br><br>
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c88b4c9032170fd70969ae82268e97f7a8e1c36dc7ec55827ad6055025d2e195/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://camo.githubusercontent.com/c88b4c9032170fd70969ae82268e97f7a8e1c36dc7ec55827ad6055025d2e195/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Khant-Nyar&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;"></a>
+            </td>
+            <td width="50%" align="center">
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6ae277852f8a772a2044e85ff72b5040ef18ec219f48ed3ed125e8601e9f0645/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130"><img align="center" src="https://camo.githubusercontent.com/6ae277852f8a772a2044e85ff72b5040ef18ec219f48ed3ed125e8601e9f0645/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130" data-canonical-src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Khant-Nyar&amp;theme=dark&amp;hide_border=true&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10" style="max-width: 100%;"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khant-nyar&label=Profile%20views&color=0e75b6&style=flat" alt="khant-nyar" /> </p>
 
