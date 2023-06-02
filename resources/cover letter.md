@@ -1,4 +1,4 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Khant-Nyar/Khant-Nyar/blob/main/resources/img/AHatInSuBWSQ_1580_395.png?raw=true))
 
 # Khant Si Thu Phyo ![Profile views](https://gpvc.arturio.dev/Khant-Nyar)  
 Web Developer | PHP | Laravel | WordPress
