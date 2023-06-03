@@ -1,6 +1,7 @@
 <img alt="AHatInSuBWSQ_1580_395.png" src="https://github.com/Khant-Nyar/Khant-Nyar/blob/main/resources/img/AHatInSuBWSQ_1580_395.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
-# Khant Si Thu Phyo ![Profile views](https://gpvc.arturio.dev/Khant-Nyar)  
+# Khant Si Thu Phyo 
+<p align="right" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb526bf186375b1cdd7a742aa0ae848c57450b6839fd49a881a291d3f1f8f0ee/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68616e742d6e796172266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/eb526bf186375b1cdd7a742aa0ae848c57450b6839fd49a881a291d3f1f8f0ee/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68616e742d6e796172266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="khant-nyar" data-canonical-src="https://komarev.com/ghpvc/?username=khant-nyar&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 Web Developer | PHP | Laravel | WordPress
 
 ## About Me
