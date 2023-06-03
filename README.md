@@ -15,7 +15,7 @@ Hello! I'm Khant Si Thu Phyo, a dedicated and experienced web developer with a p
 - **Database**: I have experience working with relational databases like MySQL and PostgreSQL, designing efficient database schemas, writing optimized queries, and handling data migrations.
 
 ## Experience
-- **Web Developer** at ABC Company (2019-present)
+- **Web Developer** at App.com.mm (2022-2023)
   - Collaborated with cross-functional teams to develop and maintain web applications using PHP, Laravel, and WordPress.
   - Implemented new features and enhancements, ensuring optimal performance and adherence to coding standards.
   - Integrated third-party APIs and services to extend application functionality.
@@ -30,9 +30,9 @@ Hello! I'm Khant Si Thu Phyo, a dedicated and experienced web developer with a p
 - **Internal Management System**: Created an internal management system for a company using Laravel, enabling efficient employee management, document sharing, and task tracking.
 
 ## Contact
-- **Email**: khant@example.com
-- **LinkedIn**: [linkedin.com/in/khantsithuphyo](https://linkedin.com/in/khantsithuphyo)
-- **GitHub**: [github.com/khantsithuphyo](https://github.com/khantsithuphyo)
+- **Email**: khantsithuphyo2001@gmail.com
+- **LinkedIn**: [linkedin.com/in/khantsithuphyo](https://linkedin.com/in/khant-si-thu-phyo)
+- **GitHub**: [github.com/khantsithuphyo](https://github.com/khant-nyar)
 
 Feel free to reach out to me for any web development opportunities or collaborations. I am always eager to contribute my skills and expertise to create exceptional web experiences.
 
