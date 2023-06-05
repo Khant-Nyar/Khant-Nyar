@@ -1,3 +1,5 @@
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Khantnyar)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">Hi 👋, I'm Khant Si Thu Phyo</h1>
 <h3 align="center">A passionate Backend Developer from Myanmar</h3>
 
