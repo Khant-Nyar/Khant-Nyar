@@ -1,3 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6C85F7&center=true&vCenter=true&width=450&height=40&lines=Khant+Si+Thu+Phyo;I+am+a+Web+Devloper+" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6C85F7&center=true&vCenter=true&width=450&height=40&lines=Khant+Si+Thu+Phyo;I+am+a+Web+Devloper+)](https://git.io/typing-svg)
+
 <img alt="Khant Si Thu Phyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khant-Nyar&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117">
 
 <img alt="Khant Si Thu Phyo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khant-Nyar&amp;langs_count=8&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117">
@@ -6,14 +10,13 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khant-Nyar&amp;theme=dracula&amp;hide_border=true" width="520" alt="Khant-Nyar">
 
-
 <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Khant-Nyar&amp;layout=compact&amp;theme=synthwave&amp;v=2"
-            data-origin="https://github-readme-stats.vercel.app/api/wakatime?username=Khant-Nyar&amp;layout=compact&amp;theme=synthwave&amp;v=2"
+    <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhantNyar&amp;layout=compact&amp;theme=synthwave&amp;v=2"
+            data-origin="https://github-readme-stats.vercel.app/api/wakatime?username=KhantNyar&amp;layout=compact&amp;theme=synthwave&amp;v=2"
             alt="FahimFBA's wakatime stats"></p>
 </div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Khant-Nyar)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KhantNyar)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=Khant-Nyar&show_icons=true&theme=dark"
@@ -67,7 +70,6 @@
 </table>
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khant-Nyar&amp;theme=gruvbox&amp;hide_border=true)](https://github.com/Khant-Nyar" alt="Khant-Nyar's GitHub Stats Graph">
-
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khant-Nyar&amp;theme=dracula&amp;hide_border=true" width="520" alt="Khant-Nyar">
 
