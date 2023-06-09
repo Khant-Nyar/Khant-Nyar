@@ -22,24 +22,29 @@ Hello! I'm Khant Si Thu Phyo, a dedicated and experienced web developer with a p
 </details>
 
 
-
-## Experience
+<details>
+  <summary><h2> Experience </h2></summary>
 
 - **Web Developer** at App.com.mm (2022-2023)
   - Collaborated with cross-functional teams to develop and maintain web applications using PHP, Laravel, and WordPress.
   - Implemented new features and enhancements, ensuring optimal performance and adherence to coding standards.
   - Integrated third-party APIs and services to extend application functionality.
   - Conducted code reviews and provided constructive feedback to improve code quality and maintainability.
+  </details>
 
-## Education
+<details>
+  <summary><h2> Education </h2></summary>
 
-- **Bachelor's Degree in Computer Science**, XYZ University
+- **Diploma in Computer(L4DC)**, Green Hacker Institute
+  </details>
 
-## Projects
+<details>
+  <summary><h2> Projects </h2></summary>
 
 - **E-commerce Website**: Developed a full-fledged e-commerce website using Laravel, integrated with payment gateways and implemented features such as product catalog, shopping cart, and order management.
 - **Custom WordPress Theme**: Built a custom WordPress theme from scratch, incorporating unique designs and custom post types to meet client requirements.
 - **Internal Management System**: Created an internal management system for a company using Laravel, enabling efficient employee management, document sharing, and task tracking.
+  </details>
 
 ## Contact
 
@@ -49,6 +54,3 @@ Hello! I'm Khant Si Thu Phyo, a dedicated and experienced web developer with a p
 
 Feel free to reach out to me for any web development opportunities or collaborations. I am always eager to contribute my skills and expertise to create exceptional web experiences.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-<img src="https://wakatime.com/badge/user/@khantnyar" alt="Wakatime Week Stats" />
