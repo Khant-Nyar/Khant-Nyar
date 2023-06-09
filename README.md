@@ -12,7 +12,7 @@ Web Developer | PHP | Laravel | WordPress
 Hello! I'm Khant Si Thu Phyo, a dedicated and experienced web developer with a passion for crafting high-quality and efficient web applications. With over 2 years of professional experience, I specialize in PHP development, particularly in the Laravel and WordPress frameworks.
 
 <details>
- <summary>## Skills</summary>
+  <summary><h2> Skills </h2></summary>
 
 - **PHP**: I have a strong command over PHP programming language and its frameworks like Laravel and WordPress. I can develop robust and scalable web applications using these technologies.
 - **Laravel**: I am proficient in Laravel framework and have hands-on experience in building custom web applications, RESTful APIs, and implementing complex business logic.
