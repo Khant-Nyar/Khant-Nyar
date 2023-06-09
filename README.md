@@ -1,11 +1,27 @@
 # Khant Si Thu Phyo
 Web Developer | PHP | Laravel | WordPress
 
-## latest activity of vscode 
-
-<p align="right" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb526bf186375b1cdd7a742aa0ae848c57450b6839fd49a881a291d3f1f8f0ee/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68616e742d6e796172266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/eb526bf186375b1cdd7a742aa0ae848c57450b6839fd49a881a291d3f1f8f0ee/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68616e742d6e796172266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="khant-nyar" data-canonical-src="https://komarev.com/ghpvc/?username=khant-nyar&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhantNyar&layout=compact&hide_border=true&custom_title=Wakatime%20Stats&langs_count=5&hide_title=true&hide=Other&url=https://gist.githubusercontent.com/Khant-Nyar/bb646df5e6cbb3720334c5cd23b6f519/raw/191b68aec6c4f5a423f35db4b8fff64720b606e6/wakatime_stats.md" alt="Wakatime Stats">
+<details>
+  <summary><h2>My Github's Status</h2></summary>
+  
+<table border="0" align="center">
+    <tbody>
+        <tr bprder="0">
+        <p dir="auto" align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/784cc984e214fa72d0ecdcf2a89e6a25c7e91fe0baab426cdf255d7148338b2f/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4b68616e742d4e796172267468656d653d64726163756c6126686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/784cc984e214fa72d0ecdcf2a89e6a25c7e91fe0baab426cdf255d7148338b2f/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4b68616e742d4e796172267468656d653d64726163756c6126686964655f626f726465723d74727565" width="520" alt="Khant-Nyar" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khant-Nyar&amp;theme=dracula&amp;hide_border=true" style="max-width: 100%;"></a></p>
+        </tr>
+        <tr border="0">
+            <td width="50%" align="center">
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcb240664d413ac6cb8b6ba52e466dc2de59b507fced5a13a434ca4723dce3c8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b68616e742d4e796172267468656d653d636f62616c742673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565"><img align="center" src="https://camo.githubusercontent.com/fcb240664d413ac6cb8b6ba52e466dc2de59b507fced5a13a434ca4723dce3c8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b68616e742d4e796172267468656d653d636f62616c742673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Khant-Nyar&amp;theme=cobalt&amp;show_icons=true&amp;count_private=true" style="max-width: 100%;"></a>
+                <br><br>
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c88b4c9032170fd70969ae82268e97f7a8e1c36dc7ec55827ad6055025d2e195/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://camo.githubusercontent.com/c88b4c9032170fd70969ae82268e97f7a8e1c36dc7ec55827ad6055025d2e195/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Khant-Nyar&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;"></a>
+            </td>
+            <td width="50%" align="center">
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6ae277852f8a772a2044e85ff72b5040ef18ec219f48ed3ed125e8601e9f0645/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130"><img align="center" src="https://camo.githubusercontent.com/6ae277852f8a772a2044e85ff72b5040ef18ec219f48ed3ed125e8601e9f0645/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130" data-canonical-src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Khant-Nyar&amp;theme=dark&amp;hide_border=true&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10" style="max-width: 100%;"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</details>
 
 ## About Me
 
