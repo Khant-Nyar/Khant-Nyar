@@ -48,9 +48,11 @@ Hello! I'm Khant Si Thu Phyo, a dedicated and experienced web developer with a p
 
 ## Contact
 
+- **Phone**: <a href="tel:09784591219">+95 978 459 1219</a>
 - **Email**: khantsithuphyo2001@gmail.com
-- **LinkedIn**: [linkedin.com/in/khantsithuphyo](https://linkedin.com/in/khant-si-thu-phyo)
+- **LinkedIn**: [linkedin.com/khantsithuphyo](https://linkedin.com/in/khant-si-thu-phyo)
 - **GitHub**: [github.com/khantsithuphyo](https://github.com/khant-nyar)
+
 
 Feel free to reach out to me for any web development opportunities or collaborations. I am always eager to contribute my skills and expertise to create exceptional web experiences.
 
