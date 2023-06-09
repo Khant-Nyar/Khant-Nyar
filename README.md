@@ -64,7 +64,7 @@ Hello! I'm Khant Si Thu Phyo, a dedicated and experienced web developer with a p
 - **Internal Management System**: Created an internal management system for a company using Laravel, enabling efficient employee management, document sharing, and task tracking.
   </details>
 
-## >Connect with me:
+## > Connect with me :
 
 - **Phone**: <a href="tel:09784591219">+95 978 459 1219</a>
 - **Email**: khantsithuphyo2001@gmail.com
