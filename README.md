@@ -2,6 +2,7 @@
 Senior Software Engineer — Web Development Team Lead at MSIS'
 
 [![GitHub followers](https://img.shields.io/github/followers/Khant-Nyar?label=Follow&style=social)](https://github.com/Khant-Nyar)
+[![GitHub stars](https://img.shields.io/github/stars/Khant-Nyar?label=TotalStar&style=social)](https://github.com/Khant-Nyar)
 
 Hi — I'm Khant Si Thu Phyoe. I build and lead teams that deliver reliable, maintainable, production-grade backend systems and APIs. Over the past years I’ve focused on backend architecture, system reliability, and developer experience — shipping payment systems, large-scale order services, enterprise applications, and integration platforms. I enjoy turning ambiguous requirements into clear, testable designs, automating repeatable processes, and mentoring engineers to raise delivery quality and velocity.
 
