@@ -1,81 +1,85 @@
-# Khant Si Thu Phyo
-Web Developer | PHP | Laravel | WordPress
+# Khant Si Thu Phyoe
+Senior Software Engineer — Web Development Team Lead at MSIS'
 
-<details>
-  <summary><h2>My Github's Status</h2></summary>
-  
-<table border="0" align="center">
-    <tbody>
-        <tr bprder="0">
-        <p dir="auto" align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/784cc984e214fa72d0ecdcf2a89e6a25c7e91fe0baab426cdf255d7148338b2f/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4b68616e742d4e796172267468656d653d64726163756c6126686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/784cc984e214fa72d0ecdcf2a89e6a25c7e91fe0baab426cdf255d7148338b2f/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4b68616e742d4e796172267468656d653d64726163756c6126686964655f626f726465723d74727565" width="900px" alt="Khant-Nyar" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khant-Nyar&amp;theme=dracula&amp;hide_border=true" style="max-width: 100%;"></a></p>
-        </tr>
-        <tr border="0">
-            <td width="50%" align="center">
-                  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&preferLogin=true&Ring=04B7DD">    <img  alt="khant-nyar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/khant-nyar?cardType=level-alternate&theme=github-dark&preferLogin=true&Ring=04B7DD" />  </a>
-                <br><br>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c88b4c9032170fd70969ae82268e97f7a8e1c36dc7ec55827ad6055025d2e195/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://camo.githubusercontent.com/c88b4c9032170fd70969ae82268e97f7a8e1c36dc7ec55827ad6055025d2e195/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Khant-Nyar&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;"></a>
-            </td>
-            <td width="50%" align="center">
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6ae277852f8a772a2044e85ff72b5040ef18ec219f48ed3ed125e8601e9f0645/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130"><img align="center" src="https://camo.githubusercontent.com/6ae277852f8a772a2044e85ff72b5040ef18ec219f48ed3ed125e8601e9f0645/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b68616e742d4e796172267468656d653d6461726b26686964655f626f726465723d74727565266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130" data-canonical-src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Khant-Nyar&amp;theme=dark&amp;hide_border=true&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10" style="max-width: 100%;"></a>
-            </td>
-        </tr>
-    </tbody>
+[![GitHub followers](https://img.shields.io/github/followers/Khant-Nyar?label=Follow&style=social)](https://github.com/Khant-Nyar)
+
+Hi — I'm Khant Si Thu Phyoe. I build and lead teams that deliver reliable, maintainable, production-grade backend systems and APIs. Over the past years I’ve focused on backend architecture, system reliability, and developer experience — shipping payment systems, large-scale order services, enterprise applications, and integration platforms. I enjoy turning ambiguous requirements into clear, testable designs, automating repeatable processes, and mentoring engineers to raise delivery quality and velocity.
+
+My technical strengths center around PHP (Laravel) and Node.js (NestJS), but I work across the full stack when needed — collaborating with frontend engineers, DevOps, QA, and product people to deliver end-to-end value. As Web Development Team Lead at MSIS', I coach engineers, define technical direction, and drive improvements in CI/CD, observability, and operational best practices. I care deeply about code health, predictable releases, and building systems that are easy for other engineers to understand and extend.
+
+<!--
+  Layout: one row, two columns.
+  Left column behaves like col-lg-8 (~66%), right column behaves like col-lg-4 (~34%).
+  Using an HTML table so widths are enforced reliably in GitHub READMEs.
+-->
+<table>
+  <tr>
+    <td width="66%" valign="top" style="padding-right:12px;">
+      <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khant-Nyar&theme=dracula&hide_border=true" style="width:100%;height:auto;border-radius:8px;" />
+    </td>
+    <td width="34%" valign="top" style="padding-left:12px;">
+      <img alt="Khant Si Thu Phyoe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khant-Nyar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" style="width:100%;height:auto;border-radius:8px;" />
+    </td>
+  </tr>
 </table>
-</details>
 
-## About Me
+---
 
-Hello! I'm Khant Si Thu Phyo, a dedicated and experienced web developer with a passion for crafting high-quality and efficient web applications. With over 2 years of professional experience, I specialize in PHP development, particularly in the Laravel and WordPress frameworks.
+## Tech Stack & Tools
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/) [![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/) [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions) [![REST](https://img.shields.io/badge/REST-00ADEF?style=flat-square)](#)  
+[![Odoo](https://img.shields.io/badge/Odoo-7A7A7A?style=flat-square&logo=odoo&logoColor=white)](https://www.odoo.com/) [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 
-<details>
-  <summary><h2> Skills Languages and Tools: </h2></summary>
-  
-- **PHP**: I have a strong command over PHP programming language and its frameworks like Laravel and WordPress. I can develop robust and scalable web applications using these technologies.
-- **Laravel**: I am proficient in Laravel framework and have hands-on experience in building custom web applications, RESTful APIs, and implementing complex business logic.
-- **WordPress**: I am well-versed in WordPress CMS, theme development, and plugin customization. I have successfully delivered multiple WordPress projects with custom functionality and design.
-- **Front-end Development**: I am proficient in HTML, CSS, and JavaScript. I can create responsive and visually appealing user interfaces using modern front-end frameworks and libraries.
-- **Database**: I have experience working with relational databases like MySQL and PostgreSQL, designing efficient database schemas, writing optimized queries, and handling data migrations.
-  
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-</details>
+---
 
+## Projects
 
-<details>
-  <summary><h2> Experience </h2></summary>
+- Agriculture Platform  
+  End-to-end platform for farm management, crop tracking, and marketplace integrations.
+  - Scalable APIs, scheduled jobs for sensor/data sync, and analytics dashboards.
+  - Marketplace integrations, supplier workflows, and mobile-friendly endpoints.
 
-- **Web Developer** at App.com.mm (2022-2023)
-  - Collaborated with cross-functional teams to develop and maintain web applications using PHP, Laravel, and WordPress.
-  - Implemented new features and enhancements, ensuring optimal performance and adherence to coding standards.
-  - Integrated third-party APIs and services to extend application functionality.
-  - Conducted code reviews and provided constructive feedback to improve code quality and maintainability.
-  </details>
+- Enterprise CRM  
+  Full-featured CRM for sales pipeline management, customer lifecycle, and reporting.
+  - Role-based access, audit logging, optimized reporting queries, and third‑party integrations.
 
-<details>
-  <summary><h2> Education </h2></summary>
+- DailyHR  
+  HR management system for attendance, leave, payroll hooks, and performance reviews.
+  - Secure permissions, scheduled payroll processing, and exportable reports.
 
-- **Diploma in Computer(L4DC)**, Green Hacker Institute
-  </details>
+- Movies & Streaming Platform  
+  Backend for cataloging, transcoding orchestration, subscription management, and recommendations.
+  - CDN-friendly asset workflows, licensing controls, and playback analytics.
 
-<details>
-  <summary><h2> Projects </h2></summary>
+- Hospital Ticket Management  
+  Ticketing and patient incident tracking system for hospitals and clinics.
+  - Prioritization queues, SLA tracking, audit trails, and compliance-oriented logging.
 
-- **E-commerce Website**: Developed a full-fledged e-commerce website using Laravel, integrated with payment gateways and implemented features such as product catalog, shopping cart, and order management.
-- **Custom WordPress Theme**: Built a custom WordPress theme from scratch, incorporating unique designs and custom post types to meet client requirements.
-- **Internal Management System**: Created an internal management system for a company using Laravel, enabling efficient employee management, document sharing, and task tracking.
-  </details>
+- IT Help Desk System  
+  Ticket lifecycle management, knowledge base, asset tracking, and escalation flows.
+  - Chat/webhook integrations and operational KPI dashboards.
 
-## > Connect with me :
+- Additional work: admin dashboards, analytics backends, integration middleware, payment & reconciliation services, and microservice orchestration.
 
-- **Phone**: <a href="tel:09784591219">+95 978 459 1219</a>
-- **Email**: khantsithuphyo2001@gmail.com
-- **LinkedIn**: [linkedin.com/khantsithuphyo](https://linkedin.com/in/khant-si-thu-phyo)
-- **GitHub**: [github.com/khantsithuphyo](https://github.com/khant-nyar)
+---
 
-<p align="left">
-<a href="https://dev.to/dev.to/khantnyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/khantnyar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khant-si-thu-phyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khant-si-thu-phyo" height="30" width="40" /></a>
-<a href="https://fb.com/oo.ookhant.5074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oo.ookhant.5074" height="30" width="40" /></a>
-</p>
+## What I Build & Impact
+- Scalable backend systems and REST APIs used by internal and external clients.  
+- Production-grade features: transactional integrity, observability, fault tolerance, and graceful degradation.  
+- Developer-friendly codebases with clear architecture, documentation, and automated tests.  
+- Lead and mentor engineering teams to improve delivery speed, code quality, and operational maturity.
 
-Feel free to reach out to me for any web development opportunities or collaborations. I am always eager to contribute my skills and expertise to create exceptional web experiences.
+---
 
+## Open Source & Contributions
+I contribute to projects and maintain utilities focused on developer experience and internal tooling. See my GitHub repositories for year-by-year highlights and utilities.
+
+---
+
+## Get in touch
+- GitHub: https://github.com/Khant-Nyar  
+- Email: khantnyar.dev@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/khant-si-thu-phyo/  
+- Twitter: https://x.com/KhantN1998
